@@ -1,0 +1,15 @@
+c:\users\tim.mahan\documents\visual studio 2015\Projects\Program0\Program0\bin\Debug\Program0.exe.config
+C:\Users\tim.mahan\Documents\Visual Studio 2015\Projects\Program0\Program0\obj\Debug\Program0.csprojResolveAssemblyReference.cache
+C:\Users\tim.mahan\Documents\Visual Studio 2015\Projects\Program0\Program0\bin\Debug\Program0.exe
+C:\Users\tim.mahan\Documents\Visual Studio 2015\Projects\Program0\Program0\bin\Debug\Program0.pdb
+C:\Users\tim.mahan\Documents\Visual Studio 2015\Projects\Program0\Program0\obj\Debug\Program0.exe
+C:\Users\tim.mahan\Documents\Visual Studio 2015\Projects\Program0\Program0\obj\Debug\Program0.pdb
+D:\Desktop\Program0\Program0\Program0\bin\Debug\Program0.exe.config
+D:\Desktop\Program0\Program0\Program0\obj\Debug\Program0.exe
+D:\Desktop\Program0\Program0\Program0\obj\Debug\Program0.pdb
+D:\Desktop\Program0\Program0\Program0\bin\Debug\Program0.exe
+D:\Desktop\Program0\Program0\Program0\bin\Debug\Program0.pdb
+D:\Desktop\Program0\Program0\Program0\obj\Debug\Program0.csprojResolveAssemblyReference.cache
+D:\Documents\Program0\Program0\Program0\Program0\bin\Debug\Program0.exe.config
+D:\Documents\Program0\Program0\Program0\Program0\obj\Debug\Program0.exe
+D:\Documents\Program0\Program0\Program0\Program0\obj\Debug\Program0.pdb
